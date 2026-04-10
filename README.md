@@ -10,8 +10,9 @@ A tiny macOS menu bar dot that shows you what Claude Code is doing in real-time 
 ## Features
 
 - **Progress Visualization** — The menu bar dot changes color in real-time, so you don't have to stare at the terminal.
+- **Multi-Session Tracking** — Monitors all running Claude Code instances simultaneously. The dot reflects the most urgent status, and the panel lists every session with its own state.
 - **Proactive Alerts** — Sound notifications when Claude needs your input or finishes a task.
-- **Quick Switch** — Left-click the dot to jump straight to your terminal window.
+- **Quick Switch** — Left-click the dot to jump straight to your terminal window. With multiple sessions, click any session in the panel to jump to its specific terminal.
 - **Zero Configuration** — Auto-detects your setup, works out of the box. Supports Ghostty, iTerm2, Warp, and Terminal.app.
 - **Multilingual** — 8 languages supported, automatically matches your system language.
 
