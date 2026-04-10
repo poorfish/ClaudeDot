@@ -1,5 +1,7 @@
 # Claude Dot
 
+<img src="icon.png" width="128" alt="Claude Dot icon">
+
 A tiny macOS menu bar dot that shows you what Claude Code is doing in real-time — so you don't have to keep checking the terminal.
 
 ![macOS](https://img.shields.io/badge/macOS-13.0%2B-black)
