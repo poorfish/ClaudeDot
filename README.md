@@ -7,6 +7,14 @@ A tiny macOS menu bar dot that shows you what Claude Code is doing in real-time 
 ![macOS](https://img.shields.io/badge/macOS-13.0%2B-black)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+## Features
+
+- **Progress Visualization** — The menu bar dot changes color in real-time, so you don't have to stare at the terminal.
+- **Proactive Alerts** — Sound notifications when Claude needs your input or finishes a task.
+- **Quick Switch** — Left-click the dot to jump straight to your terminal window.
+- **Zero Configuration** — Auto-detects your setup, works out of the box. Supports Ghostty, iTerm2, Warp, and Terminal.app.
+- **Multilingual** — 8 languages supported, automatically matches your system language.
+
 ## What It Does
 
 A colored dot lives in your menu bar and changes based on Claude Code's current state:
