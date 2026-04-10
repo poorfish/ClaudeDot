@@ -26,8 +26,15 @@ Each state has a distinct animation and optional sound alert — you'll hear a c
 
 1. Go to [Releases](../../releases) and download the latest `.dmg`
 2. Open the DMG and drag **ClaudeDot** to Applications
-3. Launch ClaudeDot — it appears as a dot in your menu bar
-4. Since the app is unsigned, right-click the app and select **Open** on first launch
+3. Launch ClaudeDot from Applications
+
+> **First launch note:** macOS will block unsigned apps downloaded from the internet. After dragging ClaudeDot to Applications, open Terminal and run:
+>
+> ```bash
+> xattr -cr /Applications/ClaudeDot.app
+> ```
+>
+> Then launch ClaudeDot normally. You only need to do this once.
 
 ### Build from Source
 
