@@ -16,7 +16,7 @@ A tiny macOS menu bar dot that shows you what Claude Code is doing in real-time 
 - **Zero Configuration** — Auto-detects your setup, works out of the box. Supports Ghostty, iTerm2, Warp, and Terminal.app.
 - **Multilingual** — 8 languages supported, automatically matches your system language.
 
-<img src="screenshot.png" width="600" alt="Claude Dot screenshot">
+<img src="screenshot.png" width="800" alt="Claude Dot screenshot">
 
 ## What It Does
 
